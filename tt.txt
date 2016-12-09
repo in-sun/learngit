@@ -1,0 +1,10 @@
+
+hello
+
+asd
+
+<<<<<<< Updated upstream
+asd
+=======
+cc
+>>>>>>> Stashed changes
